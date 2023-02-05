@@ -1,0 +1,19 @@
+.rectangle-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 20px;
+  }
+  rect{
+    resize: both;
+  }
+  
+  .rectangle {
+    border: 1px solid black;
+  }
+  
+  .perimeter {
+    margin-left: 20px;
+    font-weight: bold;
+  }

@@ -1,0 +1,9 @@
+﻿{
+  "AppDbConnectionModel": {
+    "serverName": "localhost",
+    "database": "TestDb",
+    "username": null,
+    "password": null,
+    "trustedConnection": true
+  }
+}

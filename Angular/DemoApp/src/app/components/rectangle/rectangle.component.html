@@ -1,0 +1,8 @@
+<div class="rectangle-container">
+    <svg class="rectangle" [attr.width]="rectangle.width" [attr.height]="rectangle.height">
+      <rect [attr.width]="rectangle.width" [attr.height]="rectangle.height" (mousedown)="onResizeStart($event)" />
+    </svg>
+    <div class="perimeter">
+      Perimeter: {{rectangle.perimeter}}
+    </div>
+</div>

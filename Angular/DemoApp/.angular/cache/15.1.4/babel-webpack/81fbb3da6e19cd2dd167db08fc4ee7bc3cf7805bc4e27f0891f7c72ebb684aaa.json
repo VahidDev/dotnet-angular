@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Rectangle {\n  constructor() {\n    this.width = 0;\n    this.height = 0;\n    this.x = 0;\n    this.y = 0;\n  }\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
