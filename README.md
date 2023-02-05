@@ -34,4 +34,4 @@ To run the ui part of the application, you will need to have Node.js and npm ins
 The application will be running at http://localhost:4200.
 
 # Important
-The dimensions of the rectangle are stored in the json file of the backend (Project/Project.API/dimensions.json)
+The dimensions of the rectangle are stored in the json file of the backend (Project/Presentation/Project.API/dimensions.json)
