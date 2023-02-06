@@ -1,13 +1,13 @@
 # Demoapp dotnet-angular
 A webpage for drawing rectangle SVG figures and displaying their perimeter.
 
-**Requirements**
+**Info**
 - The initial dimensions of the SVG figure are taken from a JSON file.
 - The user can resize the figure using the mouse.
 - The perimeter of the figure is displayed near the figure.
 - The JSON file is updated with the new dimensions after resizing.
 
-Implement by using Angular (frontend) and C# (for JSON saving through API).
+Implemented by using Angular (frontend) and C# (for JSON saving through API).
 
 # DemoApp
 This is the UI part of the app implemented using angular.
